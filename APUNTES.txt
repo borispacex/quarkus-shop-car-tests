@@ -1,0 +1,5 @@
+////////////////////////////////////// CLASE 21 - Tests
+-- Integraremos @QuarkusTest
+
+1.- Crear un test para validar que el retorno del metodo getAll() en ShopResource retorna dos entidades Shop.
+2.- En el ejercicio validar el codigo de estado verificar el codigo 200 de retorno y que el nombre de state en al menos uno de ellos sea Ohio.
